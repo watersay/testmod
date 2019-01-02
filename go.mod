@@ -1,1 +1,1 @@
-module github.com/watersay/testmod
+module github.com/watersay/testmod/v2
